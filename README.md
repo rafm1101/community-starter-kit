@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+How to make a bin collect all trash.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+trash2bin
 
 ## Getting started
 
@@ -18,7 +18,7 @@ FEATURES PLACEHOLDER
 ```
 # Configuration for welcome - https://github.com/behaviorbot/welcome
 
-# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/Enable repository settingsnew-issue-welcome
 
 # Comment to be posted to on first time issues
 newIssueWelcomeComment: >
