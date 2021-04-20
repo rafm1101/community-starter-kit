@@ -4,7 +4,7 @@ How to make a bin collect all trash.
 
 ## What it does
 
-trash2bin
+trash2bin 
 
 ## Getting started
 
